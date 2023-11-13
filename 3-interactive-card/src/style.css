@@ -38,6 +38,8 @@ button {
   color: inherit;
   font: inherit;
   line-height: normal;
+  outline: none;
+  cursor: pointer;
   -webkit-font-smoothing: inherit;
   -moz-osx-font-smoothing: inherit;
   -webkit-appearance: none;
